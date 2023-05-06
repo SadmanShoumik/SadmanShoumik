@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SadmanShoumik
-- 👀 I’m interested in machine learning, data analysis and AI.
-- 🌱 I’m currently learning web development.
+- 👋 Hey, I’m @SadmanShoumik
+- 👀 Interested in machine learning, data analysis and AI.
+- 🌱 However, currently learning the basics of C#.
 - 💞️ I’m not looking to collaborate on anything.
-- 📫 How to reach me ... Please don't!
+- 📫 How to reach me? Would be great if you didn't.
 
 <!---
 SadmanShoumik/SadmanShoumik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
