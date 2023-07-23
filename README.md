@@ -6,6 +6,6 @@
 
 - 👋 Hey, I’m @SadmanShoumik
 - 👀 Interested in machine learning, data analysis and AI, alongside of fullstack development.
-- 🌱 However, currently learning the basics of C#.
+- 🌱 Currently learning the basics of C#.
 - 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 How to reach me? Would be great if you didn't.
