@@ -5,7 +5,7 @@
 </p>
 
 - 👋 Hey, I’m @SadmanShoumik
-- 👀 Interested in machine learning, data analysis and AI, alongside of fullstack development.
-- 🌱 Currently learning the basics of C#.
+- 👀 Interested in machine learning, data analysis and AI, alongside fullstack development.
+- 🌱 Currently learning the basics of C#, Python and PHP.
 - 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 How to reach me? Would be great if you didn't.
